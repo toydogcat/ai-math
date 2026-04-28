@@ -28,6 +28,11 @@ $$ \beta(\alpha) = \arcsin\left(\frac{\sin(\alpha)}{k}\right) $$
 
 ![折射原理圖](/assets/img/calculus-novel/extra/rainbow/snell_law_diagram.webp)
 
+> [!NOTE]
+> **誰發現了斯乃耳定律？**
+> 想了解這位精確測量地球、並在 400 年前發現光影密碼的荷蘭科學家嗎？
+> 點擊閱讀：**[科學人物誌：斯乃耳的故事]({{site.baseurl}}/posts/side-story-snellius/)**
+
 ### 2. 偏差角的計算
 
 光線進入水滴，經過一次反射（彩虹）或兩次反射（霓），最後離開水滴。光線轉過的角度稱為**偏差角 (Angle of Deviation)** $D(\alpha)$。
