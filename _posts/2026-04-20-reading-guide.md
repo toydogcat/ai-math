@@ -45,6 +45,7 @@ image:
 除了精彩的故事，我們還準備了硬核的「深度講堂」，適合想要一探數學底層邏輯的同學：
 *   **[彩虹與霓的數學原理：微積分的極限應用]({{site.baseurl}}/posts/lesson-rainbow/)**
 *   **[尤拉公式與柏拉圖多面體的禁咒：拓樸學的開端]({{site.baseurl}}/posts/lesson-euler-polyhedra/)**
+*   **[歐拉恆等式：從泰勒級數看見上帝的指紋]({{site.baseurl}}/posts/lesson-euler-identity/)**
 
 ---
 
