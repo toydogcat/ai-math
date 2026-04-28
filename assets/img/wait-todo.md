@@ -24,20 +24,15 @@
 - [x] **萊布尼茲的符號世界** (Done)
 
 ## 3. 阿基米德補強 (Prologue: Archimedes)
-- [ ] **阿貝爾的貧困與天才**
-  - **路徑**：`assets/img/calculus-novel/episode-05/abel_study.webp`
-  - **構思**：在寒冷的北歐小屋，阿貝爾裹著破舊的毯子，手裡拿著改變世界的五次方程證明。
-- [ ] **伽羅瓦的決鬥前夜**
-  - **路徑**：`assets/img/calculus-novel/episode-05/galois_last_night.webp`
-  - **構思**：蠟燭即將燃盡，年輕的伽羅瓦在決鬥前夕瘋狂書寫，紙上寫滿了「群」與「對稱」，旁邊放著決鬥用的手槍。
-- [ ] **費馬的書邊筆記**
-  - **路徑**：`assets/img/calculus-novel/episode-06/fermat_margin.webp`
-  - **構思**：費馬在《算術》這本書的邊緣寫下那段著名的話，光線柔和，展現「業餘數學家之王」的俏皮。
-- [ ] **恩尼格瑪密碼機 (Enigma)**
-  - **路徑**：`assets/img/calculus-novel/episode-06/enigma_machine.webp`
-  - **構思**：二戰時期複雜的機械密碼機，齒輪與燈光閃爍，象徵數學與戰爭的交鋒。
-- [ ] **17 世紀的沙龍賭局**
-  - **路徑**：`assets/img/calculus-novel/episode-07/pascal_gambling.webp`
+- [x] **阿貝爾的貧困與天才** (Done)
+- [x] **伽羅瓦的決鬥前夜** (Done)
+- [x] **費馬的書邊筆記** (Done)
+- [x] **恩尼格瑪密碼機 (Enigma)** (Done)
+- [x] **數位盾牌 (ECC)** (Done)
+- [x] **17 世紀的沙龍賭局** (Done)
+- [ ] **零知識證明的阿里巴巴山洞**
+  - **路徑**：`assets/img/calculus-novel/episode-07/zkp_cave.webp`
+  - **恢復時間**：預計明日凌晨 4:00。
   - **構思**：在華麗的法國沙龍，帕斯卡與一位焦慮的賭徒在桌前討論分金幣的問題，桌上散落著骰子與書信。
 - [ ] **帕斯卡三角形的幾何美感**
   - **路徑**：`assets/img/calculus-novel/episode-07/pascal_triangle.webp`
