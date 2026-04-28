@@ -4,7 +4,7 @@ date: 2026-04-28 12:00:00 +0800
 categories: [微積分小說, 古希臘時期]
 tags: [阿基米德, 窮竭法, 微積分歷史]
 image:
-  path: /assets/img/archimedes.jpg
+  path: /assets/img/calculus-novel/prologue/archimedes.jpg
   alt: 阿基米德正在沙地上研究幾何圖形
 ---
 
@@ -28,7 +28,7 @@ image:
 
 這正是微積分最核心的直覺之一：**透過無限的分割與逼近，去掌握那個「變動」或「不規則」的真理。**
 
-![阿基米德的圓](/assets/img/archimedes.jpg)
+![阿基米德的圓](/assets/img/calculus-novel/prologue/archimedes.jpg)
 *阿基米德試圖用無限多的三角形去「填滿」一個圓。*
 
 ## 直覺：將幾何化為物理
