@@ -25,6 +25,12 @@
 - [ ] **稜鏡分光實驗**
   - **路徑**：`assets/img/calculus-novel/episode-04/prism_experiment.webp`
   - **構思**：著名的「關鍵實驗」，一道白光穿過稜鏡化為彩虹，色散現象的科學美感。
+- [ ] **牛頓與胡克的爭論**
+  - **路徑**：`assets/img/calculus-novel/episode-04/newton_vs_hooke.webp`
+  - **構思**：在皇家學會的昏暗房間裡，兩位科學家對著一張手稿激烈爭論，氣氛緊張。
+- [ ] **《自然哲學的數學原理》首版**
+  - **路徑**：`assets/img/calculus-novel/episode-04/principia_book.webp`
+  - **構思**：一本厚重的古書，封面上寫著 Principia，旁邊放著星圖與微積分草稿，象徵宇宙秩序的確立。
 
 ## 3. 阿基米德補強 (Prologue: Archimedes)
 - [ ] **阿貝爾的貧困與天才**
