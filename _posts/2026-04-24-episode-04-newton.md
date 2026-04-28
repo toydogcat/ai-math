@@ -4,8 +4,8 @@ date: 2026-04-24 12:00:00 +0800
 categories: [微積分小說, 近代數學]
 tags: [牛頓, 倫敦大瘟疫, 萬有引力]
 image:
-  path: /assets/img/calculus-novel/episode-04/newton_apple.webp
-  alt: 牛頓在果園中沉思
+  path: /assets/img/calculus-novel/episode-04/newton_manor.webp
+  alt: 奇蹟之年的牛頓
 ---
 
 ### 1642 年，聖誕節的前夕，英格蘭
