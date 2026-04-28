@@ -4,7 +4,7 @@ date: 2026-04-28 12:40:00 +0800
 categories: [微積分小說, 近代數學]
 tags: [牛頓, 萊布尼茲, 歐拉, 白努利, 微積分歷史]
 image:
-  path: /ai-math/assets/img/calculus-novel/episode-02/leibniz.jpg
+  path: /assets/img/calculus-novel/episode-02/leibniz.jpg
   alt: 關於微積分發明權的世紀爭論
 ---
 

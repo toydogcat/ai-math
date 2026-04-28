@@ -4,7 +4,7 @@ date: 2026-04-28 12:00:00 +0800
 categories: [微積分小說, 古希臘時期]
 tags: [阿基米德, 窮竭法, 微積分歷史]
 image:
-  path: /ai-math/assets/img/calculus-novel/prologue/archimedes.jpg
+  path: /assets/img/calculus-novel/prologue/archimedes.jpg
   alt: 阿基米德正在沙地上研究幾何圖形
 ---
 
@@ -16,7 +16,7 @@ image:
 
 「這不是戰爭，這是與神靈的對決。」羅馬士兵們私下恐懼地傳播著這句話。
 
-![阿基米德](/ai-math/assets/img/calculus-novel/prologue/archimedes.jpg)
+![阿基米德](/assets/img/calculus-novel/prologue/archimedes.jpg)
 *阿基米德之爪曾是羅馬海軍的噩夢。*
 
 但在城中心的一處安靜庭院裡， 75 歲的阿基米德 (Archimedes) 對外頭的喧囂充耳不聞。他蹲在細軟的沙地上，手中握著一根磨尖的木棍。他的世界裡沒有羅馬人，只有圓，以及圓背後的真理。

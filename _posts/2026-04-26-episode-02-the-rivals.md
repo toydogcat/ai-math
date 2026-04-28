@@ -4,7 +4,7 @@ date: 2026-04-28 12:30:00 +0800
 categories: [微積分小說, 近代數學]
 tags: [牛頓, 萊布尼茲, 流數法, 積分符號, 微積分歷史]
 image:
-  path: /ai-math/assets/img/calculus-novel/episode-02/newton.jpg
+  path: /assets/img/calculus-novel/episode-02/newton.jpg
   alt: 艾薩克·牛頓在伍爾索普莊園
 ---
 
@@ -16,7 +16,7 @@ image:
 
 22 歲的艾薩克·牛頓 (Isaac Newton) 帶著他在劍橋大學沒讀完的書，倉皇逃回了位於林肯郡的老家——伍爾索普。對大多數人來說，這是一段與死亡賽跑的逃亡；但對牛頓來說，這卻是一場長達 18 個月的孤獨朝聖。
 
-![牛頓](/ai-math/assets/img/calculus-novel/episode-02/newton.jpg)
+![牛頓](/assets/img/calculus-novel/episode-02/newton.jpg)
 *在避難的寂靜中，牛頓奠定了近代物理與數學的基礎。*
 
 「所有的量，都是隨時間流動而成的。」牛頓在書房的燭光下寫道。
@@ -39,7 +39,7 @@ image:
 
 萊布尼茲與牛頓完全不同。他是一位博學家，夢想著建立一套「萬能符號系統」 (Characteristica Universalis)，讓人類的思考能像運算代數一樣精確，不再有爭論。
 
-![萊布尼茲](/ai-math/assets/img/calculus-novel/episode-02/leibniz.jpg)
+![萊布尼茲](/assets/img/calculus-novel/episode-02/leibniz.jpg)
 *萊布尼茲追求的是一種普世的、完美的邏輯語言。*
 
 1675 年的某個深夜，萊布尼茲坐在桌前，手邊堆滿了與荷蘭大科學家惠更斯討論的草稿。他正試圖解決求和的問題。
