@@ -4,7 +4,7 @@ date: 2026-04-28 12:00:00 +0800
 categories: [微積分小說, 古希臘時期]
 tags: [阿基米德, 窮竭法, 微積分歷史]
 image:
-  path: /assets/img/calculus-novel/prologue/archimedes.jpg
+  path: /ai-math/assets/img/calculus-novel/prologue/archimedes.jpg
   alt: 阿基米德正在沙地上研究幾何圖形
 ---
 
