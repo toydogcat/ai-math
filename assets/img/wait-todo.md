@@ -27,11 +27,20 @@
   - **構思**：著名的「關鍵實驗」，一道白光穿過稜鏡化為彩虹，色散現象的科學美感。
 
 ## 3. 阿基米德補強 (Prologue: Archimedes)
-- [ ] **敘拉古的燒鏡陣**
-  - **路徑**：`assets/img/calculus-novel/prologue/burning_mirrors.webp`
-  - **構思**：海邊懸崖上，守軍舉起巨大的銅鏡反射陽光燒毀羅馬戰船。
+- [ ] **阿貝爾的貧困與天才**
+  - **路徑**：`assets/img/calculus-novel/episode-05/abel_study.webp`
+  - **構思**：在寒冷的北歐小屋，阿貝爾裹著破舊的毯子，手裡拿著改變世界的五次方程證明。
+- [ ] **伽羅瓦的決鬥前夜**
+  - **路徑**：`assets/img/calculus-novel/episode-05/galois_last_night.webp`
+  - **構思**：蠟燭即將燃盡，年輕的伽羅瓦在決鬥前夕瘋狂書寫，紙上寫滿了「群」與「對稱」，旁邊放著決鬥用的手槍。
+- [ ] **超越數的星空 ($\pi$ 與 $e$)**
+  - **路徑**：`assets/img/calculus-novel/extra/transcendental.webp`
+  - **構思**：展示 $e$ 和 $\pi$ 像是無法被代數鎖住的幽靈，漂浮在方程式的高牆之外。
 
----
+## 4. 方程式傳奇 (Episode 05: The Impossible Equation)
+- **主線文章**：`_posts/2026-04-30-episode-05-abel-galois.md` (準備中)
+- **學霸專區**：`_posts/2026-04-30-lesson-group-theory.md` (準備中)
+
 ## 📄 待處理檔案位置 (File Locations)
 - **主線文章**：`_posts/2026-04-26-episode-03-euler.md`
 - **學霸專區**：`_posts/2026-04-26-lesson-euler-polyhedra.md`

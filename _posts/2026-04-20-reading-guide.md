@@ -53,6 +53,7 @@ image:
 ### 📖 科學人物誌：巨人的足跡
 了解那些在數學背後，默默支撐起整座科學大廈的天才們：
 *   **[光影的密碼：斯乃耳的故事]({{site.baseurl}}/posts/side-story-snellius/)**
+*   **[方程式的折翼天使：阿貝爾與伽羅瓦]({{site.baseurl}}/posts/biography-abel-galois/)**
 
 ---
 
