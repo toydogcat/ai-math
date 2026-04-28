@@ -54,8 +54,13 @@ image:
 了解那些在數學背後，默默支撐起整座科學大廈的天才們：
 *   **[光影的密碼：斯乃耳的故事]({{site.baseurl}}/posts/side-story-snellius/)**
 *   **[方程式的折翼天使：阿貝爾與伽羅瓦]({{site.baseurl}}/posts/biography-abel-galois/)**
+*   **[業餘數學家之王：皮埃爾·德·費馬]({{site.baseurl}}/posts/biography-fermat/)**
 
 ---
+
+### 🛡️ 第七站：數位世界的隱形盾牌（即將登場）
+*   **[第六部：數字守護者——費馬、圖靈與密碼的藝術]({{site.baseurl}}/posts/episode-06-fermat-crypto/)**
+    *   *重點：看看數論如何從「最沒用的數學」變成現代文明的守護者。*
 
 **💡 小提醒：**
 在閱讀過程中，如果您看到公式，不要害怕！我們會用最簡單的比喻來解釋。我們的目標不是要您去考試，而是要帶您看見數學之美。

@@ -33,13 +33,19 @@
 - [ ] **伽羅瓦的決鬥前夜**
   - **路徑**：`assets/img/calculus-novel/episode-05/galois_last_night.webp`
   - **構思**：蠟燭即將燃盡，年輕的伽羅瓦在決鬥前夕瘋狂書寫，紙上寫滿了「群」與「對稱」，旁邊放著決鬥用的手槍。
-- [ ] **超越數的星空 ($\pi$ 與 $e$)**
-  - **路徑**：`assets/img/calculus-novel/extra/transcendental.webp`
-  - **構思**：展示 $e$ 和 $\pi$ 像是無法被代數鎖住的幽靈，漂浮在方程式的高牆之外。
+- [ ] **費馬的書邊筆記**
+  - **路徑**：`assets/img/calculus-novel/episode-06/fermat_margin.webp`
+  - **構思**：費馬在《算術》這本書的邊緣寫下那段著名的話，光線柔和，展現「業餘數學家之王」的俏皮。
+- [ ] **恩尼格瑪密碼機 (Enigma)**
+  - **路徑**：`assets/img/calculus-novel/episode-06/enigma_machine.webp`
+  - **構思**：二戰時期複雜的機械密碼機，齒輪與燈光閃爍，象徵數學與戰爭的交鋒。
+- [ ] **橢圓曲線的守護 (ECC)**
+  - **路徑**：`assets/img/calculus-novel/episode-06/ecc_shield.webp`
+  - **構思**：數學曲線演化成一個發光的數位盾牌，保護著後方的城市或銀行數據。
 
-## 4. 方程式傳奇 (Episode 05: The Impossible Equation)
-- **主線文章**：`_posts/2026-04-30-episode-05-abel-galois.md` (準備中)
-- **學霸專區**：`_posts/2026-04-30-lesson-group-theory.md` (準備中)
+## 5. 數字守護者 (Episode 06: The Digital Guardian)
+- **主線文章**：`_posts/2026-05-02-episode-06-fermat-crypto.md` (準備中)
+- **學霸專區**：`_posts/2026-05-02-lesson-rsa-ecc.md` (準備中)
 
 ## 📄 待處理檔案位置 (File Locations)
 - **主線文章**：`_posts/2026-04-26-episode-03-euler.md`
