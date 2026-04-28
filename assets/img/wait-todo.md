@@ -10,27 +10,18 @@
   - **構思**：僕人揹著失明的尤拉逃離火海，尤拉緊抱手稿，背景是漫天大火，展現科學勇氣。
 - [ ] **上帝公式的藝術化呈現**
   - **路徑**：`assets/img/calculus-novel/episode-03/euler_identity.webp`
-  - **構思**：將 $e, i, \pi, 1, 0$ 五個符號融入星雲或星系交匯的場景，具備數學的純粹美感。
-- [ ] **巴塞爾問題的驚人結果 ($\pi^2/6$)**
-  - **路徑**：`assets/img/calculus-novel/episode-03/euler_basel.webp`
-  - **構思**：一個天平，一端是無窮的整數平方倒數級數，另一端是 $\pi^2/6$。背景有正弦函數曲線。
-- [ ] **柏林宮廷的衝突**
-  - **路徑**：`assets/img/calculus-novel/episode-03/euler_berlin.webp`
-  - **構思**：在奢華的普魯士宮廷，腓特烈大帝與文人談笑風生，尤拉獨自在角落安靜地計算。
+- [x] **哥尼斯堡七橋的圖論圖解** (Done)
+- [x] **歐拉恆等式的藝術化圖像** (Done)
+- [x] **尤拉在聖彼得堡大火中被救出** (Done)
+- [x] **尤拉與腓特烈大帝在柏林宮廷的對比** (Done)
+- [x] **巴塞爾問題的無限級數與圓周率天平** (Done)
 
-## 2. 牛頓專題 (Episode 04: Newton)
-- [ ] **疫情下的奇蹟之年 (1666)**
-  - **路徑**：`assets/img/calculus-novel/episode-04/miracle_year.webp`
-  - **構思**：牛頓在鄉下果園躲避瘟疫，窗外是落下的蘋果，室內是散亂的稜鏡與微積分草稿。
-- [ ] **稜鏡分光實驗**
-  - **路徑**：`assets/img/calculus-novel/episode-04/prism_experiment.webp`
-  - **構思**：著名的「關鍵實驗」，一道白光穿過稜鏡化為彩虹，色散現象的科學美感。
-- [ ] **牛頓與胡克的爭論**
-  - **路徑**：`assets/img/calculus-novel/episode-04/newton_vs_hooke.webp`
-  - **構思**：在皇家學會的昏暗房間裡，兩位科學家對著一張手稿激烈爭論，氣氛緊張。
-- [ ] **《自然哲學的數學原理》首版**
-  - **路徑**：`assets/img/calculus-novel/episode-04/principia_book.webp`
-  - **構思**：一本厚重的古書，封面上寫著 Principia，旁邊放著星圖與微積分草稿，象徵宇宙秩序的確立。
+## 2. 牛頓與物理巔峰 (Episode 04: Newton)
+- [x] **奇蹟之年的牛頓與蘋果樹** (Done)
+- [x] **稜鏡分光實驗** (Done)
+- [x] **牛頓與胡克的爭論** (Done)
+- [x] **《自然哲學的數學原理》首版** (Done)
+- [x] **萊布尼茲的符號世界** (Done)
 
 ## 3. 阿基米德補強 (Prologue: Archimedes)
 - [ ] **阿貝爾的貧困與天才**
