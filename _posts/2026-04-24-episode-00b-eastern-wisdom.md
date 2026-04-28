@@ -4,7 +4,7 @@ date: 2026-04-25 12:00:00 +0800
 categories: [微積分小說, 古代數學]
 tags: [劉徽, 祖沖之, 祖暅, 割圓術, 微積分歷史]
 image:
-  path: /assets/img/calculus-novel/episode-00b/liuhui.jpg
+  path: /assets/img/calculus-novel/episode-00b/liuhui.webp
   alt: 劉徽與他的割圓術
 ---
 
@@ -16,7 +16,7 @@ image:
 
 劉徽靜靜地坐在他的案几前，手中握著精準的算籌。他正在為《九章算術》作注。當時中國人計算圓面積的方法還很粗糙，通常直接取 $\pi=3$。
 
-![劉徽](/assets/img/calculus-novel/episode-00b/liuhui.jpg)
+![劉徽](/assets/img/calculus-novel/episode-00b/liuhui.webp)
 *「割之彌細，所失彌少。」——劉徽*
 
 「割之彌細，所失彌少。」劉徽在卷軸上寫下了這句震撼後世的名言。
@@ -35,7 +35,7 @@ image:
 
 當時的數學家試圖透過一種名為「牟合方蓋」的奇特形狀（兩個圓柱體垂直相交的重合部分）來求出球體體積，但卻卡在了最後一步。
 
-![祖沖之](/assets/img/calculus-novel/episode-00b/zuchongzhi.jpg)
+![祖沖之](/assets/img/calculus-novel/episode-00b/zuchongzhi.webp)
 *祖沖之父子對圓周率與球體體積有著深遠貢獻。*
 
 祖暅提出了一個石破天驚的原理：**「緣冪勢既同，則積不容異。」**

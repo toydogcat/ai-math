@@ -4,7 +4,7 @@ date: 2026-04-28 12:50:00 +0800
 categories: [微積分小說, 近代數學]
 tags: [柯西, 魏爾斯特拉斯, 極限, 嚴謹性, 微積分歷史]
 image:
-  path: /assets/img/calculus-novel/episode-04/cauchy.jpg
+  path: /assets/img/calculus-novel/episode-04/cauchy.webp
   alt: 柯西與極限定義的建立
 ---
 
@@ -30,7 +30,7 @@ image:
 
 奧古斯丁·路易·柯西 (Augustin-Louis Cauchy) 站在巴黎綜合理工學院的講台上。他的學生們對他那極其嚴謹、甚至有些枯燥的講課風格感到頭痛。
 
-![柯西](/assets/img/calculus-novel/episode-04/cauchy.jpg)
+![柯西](/assets/img/calculus-novel/episode-04/cauchy.webp)
 *柯西將「幽靈」趕出了數學大廈，用極限重新定義了微積分。*
 
 柯西意識到，不能再依賴幾何直覺或物理想像了。他決定用一個抽象但強大的工具來重新定義微積分，那就是**「極限」(Limit)**。

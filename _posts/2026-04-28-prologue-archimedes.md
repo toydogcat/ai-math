@@ -4,7 +4,7 @@ date: 2026-04-28 12:00:00 +0800
 categories: [微積分小說, 古希臘時期]
 tags: [阿基米德, 窮竭法, 微積分歷史]
 image:
-  path: /assets/img/calculus-novel/prologue/archimedes.jpg
+  path: /assets/img/calculus-novel/prologue/archimedes_v2.webp
   alt: 阿基米德正在沙地上研究幾何圖形
 ---
 
@@ -22,7 +22,7 @@ image:
 
 儘管戰況慘烈，馬塞拉斯對這位躲在城牆後的對手卻充滿了超越敵我的敬意。他嚴令三軍：一旦破城，必須確保阿基米德的安全，他要將這位活著的奇蹟帶回羅馬。
 
-![阿基米德](/assets/img/calculus-novel/prologue/archimedes.jpg)
+![阿基米德](/assets/img/calculus-novel/prologue/archimedes_v2.webp)
 *阿基米德的機械曾讓強大的羅馬軍團一度陷入絕望。*
 
 圍城進行了兩年。最終，羅馬人利用城內慶祝月亮女神阿特米絲 (Artemis) 節慶、全城守軍醉酒沉睡的深夜，潛入了城內。

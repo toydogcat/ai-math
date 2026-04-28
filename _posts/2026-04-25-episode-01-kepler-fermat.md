@@ -4,7 +4,7 @@ date: 2026-04-28 12:20:00 +0800
 categories: [微積分小說, 近代數學]
 tags: [克卜勒, 費馬, 微分雛形, 積分原型, 微積分歷史]
 image:
-  path: /assets/img/calculus-novel/episode-01/kepler.jpg
+  path: /assets/img/calculus-novel/episode-01/kepler.webp
   alt: 克卜勒與他的酒桶研究
 ---
 
@@ -16,7 +16,7 @@ image:
 
 這一天，他正忙著為即將舉行的第二次婚禮採購葡萄酒。林茲的碼頭邊堆滿了從多瑙河上游運來的橡木酒桶。
 
-![克卜勒](/assets/img/calculus-novel/episode-01/kepler.jpg)
+![克卜勒](/assets/img/calculus-novel/episode-01/kepler.webp)
 *克卜勒不僅研究星空，也研究地上的酒桶。*
 
 「嘿，師傅，你是怎麼算出這桶酒值多少錢的？」克卜勒看著酒商熟練地拿起一根帶刻度的木棍，從酒桶側面的入孔斜斜地插到底部。
@@ -43,7 +43,7 @@ image:
 
 在法國南部的律政界，皮埃爾·德·費馬 (Pierre de Fermat) 是個讓人又敬又畏的人物。他在法庭上以嚴謹和冷靜著稱，但在私底下，他被稱為「業餘數學家之王」。
 
-![費馬](/assets/img/calculus-novel/episode-01/fermat.jpg)
+![費馬](/assets/img/calculus-novel/episode-01/fermat.webp)
 *費馬在公務之餘，奠定了微分的基礎。*
 
 費馬白天處理著繁瑣的刑事訴訟，晚上則躲在燭光搖曳的書房裡，與曲線進行一場跨越時空的對話。當時，數學家們正面臨一個巨大的挑戰：**如何找到一條曲線在某一點上的切線？**
