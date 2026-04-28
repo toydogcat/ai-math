@@ -10,7 +10,7 @@ image:
   alt: 帕斯卡在沙龍中的豪賭實驗
 ---
 
-![帕斯卡與沙龍賭局]({{site.baseurl}}/assets/img/calculus-novel/episode-07/pascal_gambling.webp)
+![帕斯卡與沙龍賭局](/assets/img/calculus-novel/episode-07/pascal_gambling.webp)
 *帕斯卡發現：即使在最混亂的賭桌上，也存在著一種名為「期望值」的秩序。*
 
 ### 1. 沒玩完的賭局，錢該怎麼分？

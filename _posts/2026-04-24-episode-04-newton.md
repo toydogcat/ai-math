@@ -30,13 +30,13 @@ image:
 
 1.  **彩虹的秘密**：他用三稜鏡將白光拆解。當時的人認為白光是純淨的，彩虹是雜質；牛頓證明了白光才是所有顏色的集合。
 
-![三稜鏡分光實驗]({{site.baseurl}}/assets/img/calculus-novel/episode-04/prism_experiment.webp)
+![三稜鏡分光實驗](/assets/img/calculus-novel/episode-04/prism_experiment.webp)
 *牛頓的「關鍵實驗」：證明了白光其實是色彩的交響樂。*
 
 2.  **流數法的誕生**：為了解決變動的速度問題，他發明了「流數法」(Fluxions)，這就是微積分的初稿。
 3.  **蘋果與月球**：這也許是科學史上最有名的傳說。當蘋果落地時，牛頓在想：如果這股拉住蘋果的力量能延伸到高空，它能不能拉住月球？
 
-![奇蹟之年]({{site.baseurl}}/assets/img/calculus-novel/episode-04/newton_manor.webp)
+![奇蹟之年](/assets/img/calculus-novel/episode-04/newton_manor.webp)
 *在孤獨的隔離時光裡，牛頓完成了一場一個人的科學革命。*
 
 ### 4. 終結宇宙的爭論：從凱普勒到萬有引力
@@ -51,7 +51,7 @@ image:
 
 這項發現徹底終結了長達兩千年的地心說爭議。人類第一次意識到，宇宙不是神靈的戲法，而是一台遵循精確數學規律的巨大時鐘。
 
-![宇宙秩序的聖經]({{site.baseurl}}/assets/img/calculus-novel/episode-04/principia_book.webp)
+![宇宙秩序的聖經](/assets/img/calculus-novel/episode-04/principia_book.webp)
 *《自然哲學的數學原理》：牛頓用微積分為全宇宙建立了一套法律。*
 
 ### 5. 與「胡克」的宿怨：天才的另一面
@@ -60,7 +60,7 @@ image:
 
 當時的科學大老羅伯特·胡克 (Robert Hooke) 宣稱自己早就發現了萬有引力的規律。這讓牛頓勃然大怒，他甚至在胡克死後，利用自己在皇家學會的影響力，將胡克唯一的畫像銷毀，並在著作中刻意減少對胡克的提及。
 
-![牛頓與胡克的爭論]({{site.baseurl}}/assets/img/calculus-novel/episode-04/newton_vs_hooke.webp)
+![牛頓與胡克的爭論](/assets/img/calculus-novel/episode-04/newton_vs_hooke.webp)
 *皇家學會裡的火藥味：天才之間的較量，有時比科學發現本身還要激烈。*
 
 那句名言：**「如果我看得比別人遠，是因為我站在巨人的肩膀上。」** 據說其實是牛頓在諷刺身材矮小的胡克。

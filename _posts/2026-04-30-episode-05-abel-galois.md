@@ -42,10 +42,10 @@ image:
 
 他證明了這座迷宮**沒有出口**。
 
-![阿貝爾的貧困與天才]({{site.baseurl}}/assets/img/calculus-novel/episode-05/abel_study.webp)
+![阿貝爾的貧困與天才](/assets/img/calculus-novel/episode-05/abel_study.webp)
 *在寒冷的挪威，阿貝爾用燃燒生命的方式，證明了五次方程沒有公式解。*
 
-![伽羅瓦決鬥前夜]({{site.baseurl}}/assets/img/calculus-novel/episode-05/galois_last_night.webp)
+![伽羅瓦決鬥前夜](/assets/img/calculus-novel/episode-05/galois_last_night.webp)
 *伽羅瓦在決鬥前夜寫下的，不僅是群論的基礎，更是一個天才對世界最後的咆哮。*
 
 ### 4. 伽羅瓦：看見方程式的「靈魂對稱」

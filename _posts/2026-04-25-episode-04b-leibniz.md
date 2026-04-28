@@ -9,7 +9,7 @@ image:
   alt: 萊布尼茲與他的符號美學
 ---
 
-![萊布尼茲的符號世界]({{site.baseurl}}/assets/img/calculus-novel/episode-04/leibniz_study.webp)
+![萊布尼茲的符號世界](/assets/img/calculus-novel/episode-04/leibniz_study.webp)
 *萊布尼茲：他不僅發明了微積分的語法，還在三白年前預見了二進制的數位未來。*
 
 ### 1. 會「分身術」的天才

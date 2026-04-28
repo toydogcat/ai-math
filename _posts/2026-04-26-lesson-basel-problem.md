@@ -10,7 +10,7 @@ image:
   alt: 巴塞爾問題的驚人結果
 ---
 
-![巴塞爾問題的神祕平衡]({{site.baseurl}}/assets/img/calculus-novel/episode-03/euler_basel.webp)
+![巴塞爾問題的神祕平衡](/assets/img/calculus-novel/episode-03/euler_basel.webp)
 *這個圖展現了無限平方倒數之和，如何與圓周率產生神祕的連結。*
 
 在 17 世紀，數學家們都被一個問題難倒了：**所有正整數平方的倒數和是多少？**

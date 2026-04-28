@@ -37,7 +37,7 @@ $$ 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6} $$
 
 #### 1771 年，重回聖彼得堡
 
-![柏林宮廷的冷暖對比](/ai-math/assets/img/calculus-novel/episode-03/euler_berlin.webp)
+![柏林宮廷的冷暖對比](/assets/img/calculus-novel/episode-03/euler_berlin.webp)
 *在腓特烈大帝閃耀的宮廷中，尤拉卻是那個在角落沈默計算的「獨眼巨人」。*
 
 ### 3. 重回聖彼得堡：灰燼中的不死傳奇
@@ -46,12 +46,12 @@ $$ 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6} $$
 
 1771 年，聖彼得堡發生了大火。尤拉的家被火焰吞噬，他無法看見出路，只能趴在忠誠僕人的背上死裡逃生。但他雙手死死抱住的，不是金銀財寶，而是他那堆積如山的數學手稿。對他來說，那些公式就是他的生命。
 
-![聖彼得堡大火中的營救](/ai-math/assets/img/calculus-novel/episode-03/euler_fire.webp)
-*只要手稿還在，尤拉的數學王王國就永遠不會陷落。*
+![聖彼得堡大火中的營救](/assets/img/calculus-novel/episode-03/euler_fire.webp)
+*只要手稿還在，尤拉的數學王國就永遠不會陷落。*
 
 雖然失去了房子，雖然失去了視力，但尤拉對學生說：**「現在我更不容易分心了。」** 在接下來全盲的 17 年裡，他靠著驚人的記憶力進行運算，再由兒子幫忙記錄。這段時間，他的產量竟然達到了驚人的**每週一篇新論文**！
 
-![尤拉的工作現場]({{site.baseurl}}/assets/img/calculus-novel/episode-03/euler_family.webp)
+![尤拉的工作現場](/assets/img/calculus-novel/episode-03/euler_family.webp)
 *即便在黑暗中，尤拉依然是那個熱愛家庭的溫柔父親。他常在孩子們的玩鬧聲中，在大腦裡構建整個宇宙。*
 
 ### 4. 隨手解決的百年難題：哥尼斯堡七橋
@@ -60,7 +60,7 @@ $$ 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6} $$
 
 當時哥尼斯堡的居民一直在爭論：能不能不重複地走過城裡的七座橋？尤拉根本不需要親自去走。他把陸地簡化成「點」，把橋簡化成「線」，開創了**圖論 (Graph Theory)**。他證明了這是不可能的，因為具備奇數條連線的點太多了。
 
-![七橋問題的抽象美](/ai-math/assets/img/calculus-novel/episode-03/seven_bridges.webp)
+![七橋問題的抽象美](/assets/img/calculus-novel/episode-03/seven_bridges.webp)
 *這張圖展現了尤拉如何將現實世界「格式化」為純粹的數學邏輯。*
 
 他得出了一個簡單到讓人驚訝的結論：只有當「連接奇數條線的點」數量是 **0 個**或 **2 個**時，這圖形才能「一筆畫」完成。而哥尼斯堡的橋有 4 個奇數點，所以答案是——**絕對不可能！**
@@ -69,7 +69,7 @@ $$ 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6} $$
 
 ### 6. 發現形狀的「靈魂」：$V - E + F = 2$
 
-![尤拉多面體公式](/ai-math/assets/img/calculus-novel/episode-03/euler_polyhedra.webp)
+![尤拉多面體公式](/assets/img/calculus-novel/episode-03/euler_polyhedra.webp)
 *這五個完美的對稱體，背後隱藏著一個共同的數學靈魂。*
 
 ### 7. 上帝的詩篇：$e^{i\pi} + 1 = 0$
@@ -85,7 +85,7 @@ $$ 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \dots = \frac{\pi^2}{6} $$
 
 這五個數字原本散落在數學的不同角落，幾千年來沒人覺得它們有什麼關係。但尤拉卻用一根纖細的等號，將它們緊緊連在了一起。物理學家費曼曾稱讚這是「數學中最奇妙的公式」。它告訴我們，宇宙的底層邏輯不僅是精確的，更是充滿了驚人的對稱與和諧。
 
-![上帝公式](/ai-math/assets/img/calculus-novel/episode-03/euler_identity.webp)
+![上帝公式](/assets/img/calculus-novel/episode-03/euler_identity.webp)
 *尤拉將這五個符號揉合在一起，就像是把宇宙的碎片拼成了一幅完美的畫。*
 
 > [!TIP]
