@@ -36,7 +36,7 @@ image:
 2.  **流數法的誕生**：為了解決變動的速度問題，他發明了「流數法」(Fluxions)，這就是微積分的初稿。
 3.  **蘋果與月球**：這也許是科學史上最有名的傳說。當蘋果落地時，牛頓在想：如果這股拉住蘋果的力量能延伸到高空，它能不能拉住月球？
 
-![奇蹟之年](/assets/img/calculus-novel/episode-04/newton_manor.webp)
+![奇蹟之年]({{site.baseurl}}/assets/img/calculus-novel/episode-04/newton_manor.webp)
 *在孤獨的隔離時光裡，牛頓完成了一場一個人的科學革命。*
 
 ### 4. 終結宇宙的爭論：從凱普勒到萬有引力
