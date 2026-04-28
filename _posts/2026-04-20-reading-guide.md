@@ -46,6 +46,7 @@ image:
 *   **[彩虹與霓的數學原理：微積分的極限應用]({{site.baseurl}}/posts/lesson-rainbow/)**
 *   **[尤拉公式與柏拉圖多面體的禁咒：拓樸學的開端]({{site.baseurl}}/posts/lesson-euler-polyhedra/)**
 *   **[歐拉恆等式：從泰勒級數看見上帝的指紋]({{site.baseurl}}/posts/lesson-euler-identity/)**
+*   **[巴塞爾問題：尤拉的無窮直覺與圓周率的奇遇]({{site.baseurl}}/posts/lesson-basel-problem/)**
 
 ---
 

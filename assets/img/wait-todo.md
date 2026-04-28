@@ -11,6 +11,9 @@
 - [ ] **上帝公式的藝術化呈現**
   - **路徑**：`assets/img/calculus-novel/episode-03/euler_identity.webp`
   - **構思**：將 $e, i, \pi, 1, 0$ 五個符號融入星雲或星系交匯的場景，具備數學的純粹美感。
+- [ ] **巴塞爾問題的驚人結果 ($\pi^2/6$)**
+  - **路徑**：`assets/img/calculus-novel/episode-03/euler_basel.webp`
+  - **構思**：一個天平，一端是無窮的整數平方倒數級數，另一端是 $\pi^2/6$。背景有正弦函數曲線。
 - [ ] **柏林宮廷的衝突**
   - **路徑**：`assets/img/calculus-novel/episode-03/euler_berlin.webp`
   - **構思**：在奢華的普魯士宮廷，腓特烈大帝與文人談笑風生，尤拉獨自在角落安靜地計算。
