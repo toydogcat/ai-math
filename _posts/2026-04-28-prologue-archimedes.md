@@ -28,7 +28,7 @@ image:
 
 這正是微積分最核心的直覺之一：**透過無限的分割與逼近，去掌握那個「變動」或「不規則」的真理。**
 
-![阿基米德的圓](/assets/img/calculus-novel/prologue/archimedes.jpg)
+![阿基米德的圓]({{ '/assets/img/calculus-novel/prologue/archimedes.jpg' | relative_url }})
 *阿基米德試圖用無限多的三角形去「填滿」一個圓。*
 
 ## 直覺：將幾何化為物理
