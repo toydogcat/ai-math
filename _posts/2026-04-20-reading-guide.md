@@ -55,12 +55,13 @@ image:
 *   **[光影的密碼：斯乃耳的故事]({{site.baseurl}}/posts/side-story-snellius/)**
 *   **[方程式的折翼天使：阿貝爾與伽羅瓦]({{site.baseurl}}/posts/biography-abel-galois/)**
 *   **[業餘數學家之王：皮埃爾·德·費馬]({{site.baseurl}}/posts/biography-fermat/)**
+*   **[在骰子與星空之間：布萊茲·帕斯卡]({{site.baseurl}}/posts/biography-pascal/)**
 
 ---
 
-### 🛡️ 第七站：數位世界的隱形盾牌（即將登場）
-*   **[第六部：數字守護者——費馬、圖靈與密碼的藝術]({{site.baseurl}}/posts/episode-06-fermat-crypto/)**
-    *   *重點：看看數論如何從「最沒用的數學」變成現代文明的守護者。*
+### 🎲 第八站：機率與機密的交織（即將登場）
+*   **[第七部：賭徒的智慧——從分金幣到零知識證明]({{site.baseurl}}/posts/episode-07-pascal-probability/)**
+    *   *重點：看看賭場裡的算計，如何變成守護隱私的最高科技 ZKP。*
 
 **💡 小提醒：**
 在閱讀過程中，如果您看到公式，不要害怕！我們會用最簡單的比喻來解釋。我們的目標不是要您去考試，而是要帶您看見數學之美。

@@ -39,13 +39,19 @@
 - [ ] **恩尼格瑪密碼機 (Enigma)**
   - **路徑**：`assets/img/calculus-novel/episode-06/enigma_machine.webp`
   - **構思**：二戰時期複雜的機械密碼機，齒輪與燈光閃爍，象徵數學與戰爭的交鋒。
-- [ ] **橢圓曲線的守護 (ECC)**
-  - **路徑**：`assets/img/calculus-novel/episode-06/ecc_shield.webp`
-  - **構思**：數學曲線演化成一個發光的數位盾牌，保護著後方的城市或銀行數據。
+- [ ] **17 世紀的沙龍賭局**
+  - **路徑**：`assets/img/calculus-novel/episode-07/pascal_gambling.webp`
+  - **構思**：在華麗的法國沙龍，帕斯卡與一位焦慮的賭徒在桌前討論分金幣的問題，桌上散落著骰子與書信。
+- [ ] **帕斯卡三角形的幾何美感**
+  - **路徑**：`assets/img/calculus-novel/episode-07/pascal_triangle.webp`
+  - **構思**：無數數字排列成金字塔形狀，散發出神祕的金光，展示組合數學的規律。
+- [ ] **零知識證明：阿里巴巴山洞**
+  - **路徑**：`assets/img/calculus-novel/episode-07/zkp_cave.webp`
+  - **構思**：一個環形山洞的插圖，展示如何在不揭露路徑的情況下，證明自己擁有開門的咒語。
 
-## 5. 數字守護者 (Episode 06: The Digital Guardian)
-- **主線文章**：`_posts/2026-05-02-episode-06-fermat-crypto.md` (準備中)
-- **學霸專區**：`_posts/2026-05-02-lesson-rsa-ecc.md` (準備中)
+## 6. 賭徒的智慧 (Episode 07: The Gambler's Wisdom)
+- **主線文章**：`_posts/2026-05-04-episode-07-pascal-probability.md` (準備中)
+- **學霸專區**：`_posts/2026-05-04-lesson-zkp.md` (準備中)
 
 ## 📄 待處理檔案位置 (File Locations)
 - **主線文章**：`_posts/2026-04-26-episode-03-euler.md`
