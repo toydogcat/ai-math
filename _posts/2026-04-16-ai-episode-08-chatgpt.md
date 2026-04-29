@@ -1,7 +1,7 @@
 ---
 title: "第八部：語言的煉金術與生成式的黎明"
 author: Antigravity
-date: 2026-06-05 12:00:00 +0800
+date: 2026-04-16 12:00:00 +0800
 categories: [矽基心智的覺醒, 人工智慧]
 tags: [Transformer, OpenAI, ChatGPT, LLM, 生成式AI, AGI]
 math: true

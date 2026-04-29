@@ -1,7 +1,7 @@
 ---
 title: "第七部：棋盤上的神之一手"
 author: Antigravity
-date: 2026-06-03 12:00:00 +0800
+date: 2026-04-15 12:00:00 +0800
 categories: [矽基心智的覺醒, 人工智慧]
 tags: [哈薩比斯, DeepMind, AlphaGo, 強化學習, 圍棋]
 math: true

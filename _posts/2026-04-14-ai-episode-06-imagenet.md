@@ -1,7 +1,7 @@
 ---
 title: "第六部：大數據與算力的大爆炸"
 author: Antigravity
-date: 2026-06-01 12:00:00 +0800
+date: 2026-04-14 12:00:00 +0800
 categories: [矽基心智的覺醒, 人工智慧]
 tags: [李飛飛, ImageNet, AlexNet, 深度學習, GPU]
 math: true

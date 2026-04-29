@@ -1,7 +1,7 @@
 ---
 title: "第七部：用數學定價風險——華爾街的寬客"
 author: Antigravity
-date: 2026-05-18 12:00:00 +0800
+date: 2026-04-07 12:00:00 +0800
 categories: [隨機的秩序, 機率與統計]
 tags: [布朗運動, 伊藤清, Black-Scholes, 金融工程, 選擇權, 寬客]
 math: true
