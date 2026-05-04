@@ -1,0 +1,21 @@
+{
+  "name": "AI-Math",
+  "short_name": "AI-Math",
+  "description": "質數無窮之戀與近代數學的無限征途",
+  "start_url": "/ai-math/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#ffd700",
+  "icons": [
+    {
+      "src": "/ai-math/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ai-math/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

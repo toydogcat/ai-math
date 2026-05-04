@@ -35,3 +35,24 @@
     </div>
   </div>
 </footer>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/ai-math/sw.js').then((reg) => {
+        console.log('PWA Service Worker registered with scope:', reg.scope);
+      }).catch((err) => {
+        console.error('Service Worker registration failed:', err);
+      });
+    });
+  }
+
+  // Inject manifest link dynamically to ensure fallback
+  if (!document.querySelector('link[rel="manifest"]')) {
+    const link = document.createElement('link');
+    link.rel = 'manifest';
+    link.href = '/ai-math/manifest.json';
+    document.head.appendChild(link);
+  }
+</script>
+
