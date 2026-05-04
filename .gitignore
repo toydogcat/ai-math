@@ -23,3 +23,7 @@ node_modules/
 # Tools
 _site/
 .jekyll-cache/
+
+# TMP
+TMP/
+
